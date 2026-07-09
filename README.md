@@ -43,12 +43,20 @@ Security researcher focusing on **OT/ICS security** and **LLM-based intrusion de
 
 # 💻 Publications
 
-<!-- 논문 실적을 아래 형식으로 채워 넣으세요. 링크가 있으면 제목에 걸어주면 좋습니다. -->
+### 🌍 International
 
-| 구분 | 제목 | 학회/저널 | 연도 |
-|------|------|-----------|------|
-| 국내 학술대회 | (논문 제목) | (학회명) | 2025 |
-| 국내 학술대회 | (논문 제목) | (학회명) | 2025 |
+| Type | Title | Venue | Year |
+|------|-------|-------|------|
+| Journal | [Domain Knowledge-Infused Synthetic Data Generation for LLM-Based ICS Intrusion Detection: Mitigating Data Scarcity and Imbalance](https://www.mdpi.com/2079-9292/15/2/371) | *Electronics* (MDPI) | 2026 |
+| Conference | [A Preliminary Study on an Intrusion Detection Method using Large Language Models in Industrial Control Systems](https://ieeexplore.ieee.org/document/10625633) | ICUFN 2024 (IEEE) | 2024 |
+
+### 🇰🇷 Domestic
+
+| Type | Title | Venue | Year |
+|------|-------|-------|------|
+| Journal | [수처리 플랜트 OT/ICS에서 침입탐지 데이터셋 생성을 위한 시뮬레이터 설계 및 구현](https://kacs.ne.kr/research/list2?year_txt=2026%EB%85%84%20%EC%A0%9C3%EC%A7%91&volume_txt=1%ED%98%B8) | 사이버안보연구 (한국사이버안보학회) | 2026 |
+| Journal | [스마트빌딩용 대규모 언어 모델 기반 침입 탐지 모델](https://i3.or.kr/html/paper/2024-4/%2830%292024-4.pdf) | 한국소프트웨어감정평가학회 논문지 | 2024 |
+| Journal | [Enhancing Sustainability of an Android Malware Detection Technique using K-means Clustering](https://doi.org/10.29056/jsav.2024.09.03) | 한국소프트웨어감정평가학회 논문지 | 2024 |
 
 <br>
 
