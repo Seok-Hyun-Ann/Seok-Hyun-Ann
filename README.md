@@ -50,7 +50,7 @@ Security researcher focusing on **OT/ICS security** and **LLM-based intrusion de
 | Journal | [Domain Knowledge-Infused Synthetic Data Generation for LLM-Based ICS Intrusion Detection: Mitigating Data Scarcity and Imbalance](https://www.mdpi.com/2079-9292/15/2/371) | *Electronics* (MDPI) | 2026 |
 | Conference | [A Preliminary Study on an Intrusion Detection Method using Large Language Models in Industrial Control Systems](https://ieeexplore.ieee.org/document/10625633) | ICUFN 2024 (IEEE) | 2024 |
 
-### 🇰🇷 Domestic
+### Domestic
 
 | Type | Title | Venue | Year |
 |------|-------|-------|------|
