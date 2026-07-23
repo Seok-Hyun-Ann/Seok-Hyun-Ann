@@ -6,7 +6,7 @@
 
 # 👋 About Me
 
-**보안과 인공지능의 접점을 연구하는 안석현입니다.**
+**보안과 인공지능을 연구하는 안석현입니다.**
 OT/ICS 환경의 보안 위협을 분석하고, LLM을 활용한 침입 탐지 시스템을 연구하고 있습니다.
 
 Security researcher focusing on **OT/ICS security** and **LLM-based intrusion detection systems**.
