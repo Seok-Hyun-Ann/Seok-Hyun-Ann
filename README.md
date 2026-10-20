@@ -11,7 +11,7 @@ OT/ICS 환경의 보안 위협을 분석하고, LLM을 활용한 침입 탐지 �
 
 Security researcher focusing on **OT/ICS security** and **LLM-based intrusion detection systems**.
 
-- 🎓 **단국대학교 일반대학원 인공지능융합학과** 석사 졸업 예정 <sub>(M.S. in AI Convergence, Dankook University)</sub>
+- 🎓 **단국대학교 일반대학원 인공지능융합학과** 석사 졸업 <sub>(M.S. in AI Convergence, Dankook University)</sub>
 - 🎓 **단국대학교 소프트웨어학과** 졸업 <sub>(B.S. in Software, Dankook University)</sub>
 
 ### 🔬 Research Interests
